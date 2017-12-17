@@ -436,8 +436,8 @@
             }
           },
           "text1": "<strong>Adres</strong><br>De Houtwal 7<br>6704 AW Wageningen",
-          "text2": "<strong>Contact</strong><br>\nE-mail: <a href=\"mailto:info@signedbysanne.nl\" class=\"text-danger\">info@signedbysanne.nl</a><br>Tel: <a href=\"tel:+31651198068\" class=\"text-danger\">+31 6 51 19 80 68</a><br>",
-          "text3": "<strong>Overig</strong><br>KvK: 61329568<br>BTW: NL166532691B01<br><a href=\"https://www.linkedin.com/in/sannevandeursen/ \" class=\"text-danger\">LinkedIn</a>"
+          "text2": "<strong>Contact</strong><br>\nE-mail: <a href=\"mailto:info@signedbysanne.nl\" class=\"text-danger\">info@signedbysanne.nl</a><br>Tel: +31 6 51 19 80 68<br>",
+          "text3": "<strong>Overig</strong><br>KvK: 61329568<br>BTW: NL166532691B01<br>LinkedIn: <a href=\"https://nl.linkedin.com/in/sannevandeursen\" class=\"text-danger\">klik</a>"
         }
       ]
     }
